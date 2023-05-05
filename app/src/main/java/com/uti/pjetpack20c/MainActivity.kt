@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
                             .fillMaxWidth()
                             .background(Color.LightGray)
                             .padding(start = 10.dp, end = 10.dp)) {
-                            Text(text = "Coba Jetpack Compose")
+                            Text(text = "Coba Jetpack Compose barug")
                             Greeting("Android")
                         }
 
